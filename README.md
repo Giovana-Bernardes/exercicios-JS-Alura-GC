@@ -1,7 +1,7 @@
 #Exercícios com JavaScript 👩‍🏫
 
 
-Este repositório contém as minhas resoluções dos exercícios do curso de __Lógica de Programação: explore listas e funções__ da __Alura__ (https://www.alura.com.br/), incluído na __trilha de Programação Java__ do __Instituto Caldeira__(https://institutocaldeira.org.br/). 🐧
+Este repositório contém as minhas resoluções dos exercícios do curso de __Lógica de Programação: explore listas e funções__ da __Alura__ (https://www.alura.com.br/), incluídos na __trilha de Programação Java__ do __Instituto Caldeira__(https://institutocaldeira.org.br/). 🐧
 
 
 📁 Arquivos:
