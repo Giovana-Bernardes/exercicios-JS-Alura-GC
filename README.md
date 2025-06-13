@@ -15,12 +15,12 @@ Este repositório contém as minhas resoluções dos exercícios do curso de __L
 
 🤩 Conteúdos abordados:
 
--`Funções básicas e com parâmetros`
--`Operações matemáticas simples`
--`Condicional ternária`
--`Laços de repetição (for)`
--`Arrays (listas)`
--`Uso do console.log para saída`
+- `Funções básicas e com parâmetros`
+- `Operações matemáticas simples`
+- `Condicional ternária`
+- `Laços de repetição (for)`
+- `Arrays (listas)`
+- `Uso do console.log para saída`
 
 
 
