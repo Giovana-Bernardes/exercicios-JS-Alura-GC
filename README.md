@@ -20,6 +20,7 @@ Este repositório contém as minhas resoluções dos exercícios do curso de __L
 -`Condicional ternária`
 -`Laços de repetição (for)`
 -`Arrays (listas)`
+-`Uso do console.log para saída`
 
 
 
