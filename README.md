@@ -13,7 +13,7 @@ Este repositório contém as minhas resoluções dos exercícios do curso de __L
 🫸O repositório foca apenas nos exercícios e nos códigos JS! 💕
 
 
-🤩 Conteúdoss abordados:
+🤩 Conteúdos abordados:
 
 -`Funções básicas e com parâmetros`
 -`Operações matemáticas simples`
