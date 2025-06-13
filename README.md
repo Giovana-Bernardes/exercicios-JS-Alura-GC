@@ -7,13 +7,13 @@ Este repositório contém as minhas resoluções dos exercícios do curso de __L
 📁 Arquivos:
 
 - `app.js`: onde estão os exercícios em JS, com os respectivos enunciados.
-- `.gitignore`: utilizado para ignorar as partes do projeto que não eram relativas aos exxercícios.
+- `.gitignore`: utilizado para ignorar as partes do projeto que não eram relativas aos exercícios.
 
 
 🫸O repositório foca apenas nos exercícios e nos códigos JS! 💕
 
 
-🤩 Conteúdos:
+🤩 Conteúdoss abordados:
 
 -`Funções básicas e com parâmetros`
 -`Operações matemáticas simples`
